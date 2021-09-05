@@ -2,3 +2,4 @@ line 1
 line 2
 add a line from master to test rebase
 add a new feature by ting
+add a commit to be amended
